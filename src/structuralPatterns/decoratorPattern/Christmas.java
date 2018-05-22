@@ -1,4 +1,4 @@
-package decoratorPattern;
+package structuralPatterns.decoratorPattern;
 
 public class Christmas extends EmailBodyDecorator{
 

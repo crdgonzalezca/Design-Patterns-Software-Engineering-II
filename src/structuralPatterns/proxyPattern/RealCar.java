@@ -1,4 +1,4 @@
-package proxyPattern;
+package structuralPatterns.proxyPattern;
 
 public class RealCar implements Car{
 	private String color;

@@ -1,4 +1,4 @@
-package proxyPattern;
+package structuralPatterns.proxyPattern;
 
 public class Main {
 	public static void main(String[] args) {

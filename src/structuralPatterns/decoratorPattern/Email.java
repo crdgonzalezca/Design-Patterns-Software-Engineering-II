@@ -1,4 +1,4 @@
-package decoratorPattern;
+package structuralPatterns.decoratorPattern;
 
 public class Email implements EmailBody{
 
